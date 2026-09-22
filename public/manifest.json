@@ -1,0 +1,14 @@
+{
+  "author": "TMRX",
+  "appId": "6a8d22b2a724fab060a75e42",
+  "description": "Searchable inventory pick list — SKU, photo, and bin location together so new hires can verify a pick at a glance.",
+  "version": "1.0.0",
+  "versionDescription": "Initial release",
+  "config": {
+    "fields": {
+      "workflowId": {
+        "type": "string"
+      }
+    }
+  }
+}
